@@ -1,4 +1,4 @@
-##  Github
+#  Github
 >Github是一个提供代码托管服务的网站。它以当前世界最大、也是最流行的代码托管及分享平台和程序员社交平台闻名遐迩。
 
 
@@ -54,6 +54,7 @@ Markdown
 HTML\CSS\Javascript
 
 http://wowubuntu.com/markdown/
+http://www.jianshu.com/p/82e730892d42
 
 基本语法
 1. 标题设置（让字体变大，和word的标题意思一样）
