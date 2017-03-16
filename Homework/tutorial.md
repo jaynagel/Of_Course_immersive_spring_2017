@@ -54,7 +54,8 @@ Markdown
 HTML\CSS\Javascript
 
 http://wowubuntu.com/markdown/  
-http://www.jianshu.com/p/82e730892d42
+http://www.jianshu.com/p/82e730892d42  
+http://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000
 
 基本语法
 1. 标题设置（让字体变大，和word的标题意思一样）
