@@ -15,7 +15,7 @@ void loop() {
   Serial.print("Sensor Value: ");
   Serial.print(sensorVal);
 
-  int brightness = map(sensorVal, 2, 47, 0, 100);
+  int brightness = map(sensorVal, 2, 50, 100, 0);
   Serial.print(" Brightness: ");
   Serial.println(brightness);
 
@@ -36,5 +36,5 @@ if(brightness < 25){
   digitalWrite(6, HIGH);
   digitalWrite(5, HIGH);
 }
-delay(1);
+delay(100);
 }
